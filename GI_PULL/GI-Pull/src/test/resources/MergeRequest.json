@@ -1,0 +1,96 @@
+{
+  "id": 11348,
+  "iid": 17,
+  "project_id": 90,
+  "title": "INGL-45 : Added a modal that allows the end user to change the layout of widgets on the dashboard",
+  "description": "Created a modal that allows the end user to change the layout of widgets in the dashboard as per their need. The layout is stored in the local storage , so that the layout persists when the page is refreshed.\n\n![image](/uploads/169e5c6df2d53b30a573bb7baf75eece/image.png)\n\nThis supports drag and drop of widget cards in the modal to update the layout. On clicking the Apply button the layout is updated.\n\n\n@rohan.mittal @devarsh.desai @kelvi.bavariya",
+  "state": "opened",
+  "created_at": "2024-04-01T08:07:28.068Z",
+  "updated_at": "2024-04-01T08:07:34.148Z",
+  "merged_by": null,
+  "merge_user": null,
+  "merged_at": null,
+  "closed_by": null,
+  "closed_at": null,
+  "target_branch": "dev_mayank",
+  "source_branch": "INGL-45",
+  "user_notes_count": 0,
+  "upvotes": 0,
+  "downvotes": 0,
+  "author": {
+    "id": 282,
+    "username": "mayank.gupta",
+    "name": "Mayank Gupta",
+    "state": "active",
+    "locked": false,
+    "avatar_url": "https://secure.gravatar.com/avatar/b974b75ac81f34b7a56b08fd540f1fda?s=80&d=identicon",
+    "web_url": "https://gitlab.cdsys.local/mayank.gupta"
+  },
+  "assignees": [
+    {
+      "id": 282,
+      "username": "mayank.gupta",
+      "name": "Mayank Gupta",
+      "state": "active",
+      "locked": false,
+      "avatar_url": "https://secure.gravatar.com/avatar/b974b75ac81f34b7a56b08fd540f1fda?s=80&d=identicon",
+      "web_url": "https://gitlab.cdsys.local/mayank.gupta"
+    }
+  ],
+  "assignee": {
+    "id": 282,
+    "username": "mayank.gupta",
+    "name": "Mayank Gupta",
+    "state": "active",
+    "locked": false,
+    "avatar_url": "https://secure.gravatar.com/avatar/b974b75ac81f34b7a56b08fd540f1fda?s=80&d=identicon",
+    "web_url": "https://gitlab.cdsys.local/mayank.gupta"
+  },
+  "reviewers": [
+    {
+      "id": 436,
+      "username": "darshan.patel2",
+      "name": "Darshan Patel2",
+      "state": "active",
+      "locked": false,
+      "avatar_url": "https://secure.gravatar.com/avatar/18c90d69cb8e57c117b528277fbd20b1?s=80&d=identicon",
+      "web_url": "https://gitlab.cdsys.local/darshan.patel2"
+    }
+  ],
+  "source_project_id": 90,
+  "target_project_id": 90,
+  "labels": [],
+  "draft": false,
+  "work_in_progress": false,
+  "milestone": null,
+  "merge_when_pipeline_succeeds": false,
+  "merge_status": "can_be_merged",
+  "detailed_merge_status": "mergeable",
+  "sha": "9fa905871dfdba1916f45fd428e765a6e10528e3",
+  "merge_commit_sha": null,
+  "squash_commit_sha": null,
+  "discussion_locked": null,
+  "should_remove_source_branch": null,
+  "force_remove_source_branch": true,
+  "prepared_at": "2024-04-01T08:07:34.144Z",
+  "reference": "!17",
+  "references": {
+    "short": "!17",
+    "relative": "!17",
+    "full": "internstraining2024/sbu_breakouttrainings_projects/int2024-gitlab-insights/gi-ui!17"
+  },
+  "web_url": "https://gitlab.cdsys.local/internstraining2024/sbu_breakouttrainings_projects/int2024-gitlab-insights/gi-ui/-/merge_requests/17",
+  "time_stats": {
+    "time_estimate": 0,
+    "total_time_spent": 0,
+    "human_time_estimate": null,
+    "human_total_time_spent": null
+  },
+  "squash": false,
+  "task_completion_status": {
+    "count": 0,
+    "completed_count": 0
+  },
+  "has_conflicts": false,
+  "blocking_discussions_resolved": true
+}
