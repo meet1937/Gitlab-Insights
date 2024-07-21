@@ -1,4 +1,4 @@
-package com.crest.gi.scheduler.dto;
+package com.md.gi.scheduler.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.validation.constraints.Email;

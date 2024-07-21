@@ -1,6 +1,6 @@
-package com.crest.gi.utils.dropbox;
+package com.md.gi.utils.dropbox;
 
-import com.crest.gi.utils.dto.AuthTokenDropBoxDto;
+import com.md.gi.utils.dto.AuthTokenDropBoxDto;
 import com.dropbox.core.DbxException;
 import com.dropbox.core.DbxRequestConfig;
 import com.dropbox.core.v2.DbxClientV2;

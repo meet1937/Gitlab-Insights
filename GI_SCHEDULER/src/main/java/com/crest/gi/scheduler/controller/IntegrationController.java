@@ -1,9 +1,9 @@
-package com.crest.gi.scheduler.controller;
+package com.md.gi.scheduler.controller;
 
-import com.crest.gi.scheduler.dto.IntegrationDto;
-import com.crest.gi.scheduler.model.Integration;
-import com.crest.gi.scheduler.service.ClassMethodInvokeService;
-import com.crest.gi.scheduler.service.IntegrationService;
+import com.md.gi.scheduler.dto.IntegrationDto;
+import com.md.gi.scheduler.model.Integration;
+import com.md.gi.scheduler.service.ClassMethodInvokeService;
+import com.md.gi.scheduler.service.IntegrationService;
 import java.util.List;
 import java.util.UUID;
 import org.springframework.http.ResponseEntity;

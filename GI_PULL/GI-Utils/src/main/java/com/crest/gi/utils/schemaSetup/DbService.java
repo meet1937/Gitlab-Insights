@@ -1,4 +1,4 @@
-package com.crest.gi.utils.schemaSetup;
+package com.md.gi.utils.schemaSetup;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

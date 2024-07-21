@@ -1,4 +1,4 @@
-package com.crest.gi.utils.webclient;
+package com.md.gi.utils.webclient;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.crest.gi.utils.dbconfig;
+package com.md.gi.utils.dbconfig;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

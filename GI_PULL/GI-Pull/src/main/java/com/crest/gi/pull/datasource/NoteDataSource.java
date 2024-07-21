@@ -1,7 +1,7 @@
-package com.crest.gi.pull.datasource;
+package com.md.gi.pull.datasource;
 
-import com.crest.gi.pull.model.Note;
-import com.crest.gi.pull.model.Project;
+import com.md.gi.pull.model.Note;
+import com.md.gi.pull.model.Project;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

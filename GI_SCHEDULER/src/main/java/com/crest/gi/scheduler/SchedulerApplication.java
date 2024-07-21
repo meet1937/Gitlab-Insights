@@ -1,4 +1,4 @@
-package com.crest.gi.scheduler;
+package com.md.gi.scheduler;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-@ComponentScan(basePackages = {"com.crest.gi"})
+@ComponentScan(basePackages = {"com.md.gi"})
 @Slf4j
 public class SchedulerApplication {
   public static void main(String[] args) {

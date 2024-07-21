@@ -1,9 +1,9 @@
-package com.crest.GI.etl.controller;
+package com.md.GI.etl.controller;
 
-import com.crest.GI.etl.fetcher.MergeRequestFetcher;
-import com.crest.GI.etl.fetcher.NoteFetcher;
-import com.crest.GI.etl.fetcher.UserFetcher;
-import com.crest.GI.etl.fetcher.ProjectFetcher;
+import com.md.GI.etl.fetcher.MergeRequestFetcher;
+import com.md.GI.etl.fetcher.NoteFetcher;
+import com.md.GI.etl.fetcher.UserFetcher;
+import com.md.GI.etl.fetcher.ProjectFetcher;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

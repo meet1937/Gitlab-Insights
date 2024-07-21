@@ -8,7 +8,7 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.crest.gi</groupId>
+	<groupId>com.md.gi</groupId>
 	<artifactId>GI-ServerApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>GI-ServerApi</name>
@@ -33,12 +33,12 @@
 			<version>42.7.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.crest.gi</groupId>
+			<groupId>com.md.gi</groupId>
 			<artifactId>GI-Utils</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 <!--		<dependency>-->
-<!--			<groupId>com.crest.gi</groupId>-->
+<!--			<groupId>com.md.gi</groupId>-->
 <!--			<artifactId>GI-Schema-Setup</artifactId>-->
 <!--			<version>0.0.1-SNAPSHOT</version>-->
 <!--		</dependency>-->

@@ -1,8 +1,8 @@
-package com.crest.gi.scheduler.mapper;
+package com.md.gi.scheduler.mapper;
 
-import com.crest.gi.scheduler.dto.IntegrationDto;
-import com.crest.gi.scheduler.enums.Status;
-import com.crest.gi.scheduler.model.Integration;
+import com.md.gi.scheduler.dto.IntegrationDto;
+import com.md.gi.scheduler.enums.Status;
+import com.md.gi.scheduler.model.Integration;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import org.springframework.stereotype.Service;

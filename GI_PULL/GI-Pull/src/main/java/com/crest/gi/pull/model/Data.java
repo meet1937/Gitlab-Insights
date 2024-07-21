@@ -1,4 +1,4 @@
-package com.crest.gi.pull.model;
+package com.md.gi.pull.model;
 
 import lombok.AllArgsConstructor;
 

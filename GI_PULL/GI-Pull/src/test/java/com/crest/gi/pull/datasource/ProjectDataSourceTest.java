@@ -1,6 +1,6 @@
-package com.crest.gi.pull.datasource;
+package com.md.gi.pull.datasource;
 
-import com.crest.gi.pull.model.Project;
+import com.md.gi.pull.model.Project;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,7 +1,7 @@
-package com.crest.GI.etl.loader;
+package com.md.GI.etl.loader;
 
-import com.crest.GI.etl.mapper.GitlabMapper;
-import com.crest.GI.etl.model.User;
+import com.md.GI.etl.mapper.GitlabMapper;
+import com.md.GI.etl.model.User;
 
 import java.lang.reflect.Array;
 import java.sql.Timestamp;

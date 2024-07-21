@@ -1,11 +1,11 @@
-package com.crest.gi.server.controller;
+package com.md.gi.server.controller;
 
 
-import com.crest.gi.server.dto.IntegrationDto;
+import com.md.gi.server.dto.IntegrationDto;
 import java.util.List;
 import java.util.UUID;
 
-import com.crest.gi.utils.schemaSetup.DbService;
+import com.md.gi.utils.schemaSetup.DbService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;

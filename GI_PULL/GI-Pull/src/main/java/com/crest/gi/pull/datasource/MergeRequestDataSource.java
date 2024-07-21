@@ -1,6 +1,6 @@
-package com.crest.gi.pull.datasource;
+package com.md.gi.pull.datasource;
 
-import com.crest.gi.pull.model.MergeRequest;
+import com.md.gi.pull.model.MergeRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.http.MediaType;

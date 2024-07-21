@@ -1,4 +1,4 @@
-package com.crest.gi.scheduler.enums;
+package com.md.gi.scheduler.enums;
 
 /**
  * To maintain varius status in database

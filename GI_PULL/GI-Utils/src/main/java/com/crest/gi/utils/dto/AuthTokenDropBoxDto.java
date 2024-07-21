@@ -1,4 +1,4 @@
-package com.crest.gi.utils.dto;
+package com.md.gi.utils.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

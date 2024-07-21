@@ -1,13 +1,13 @@
-package com.crest.GI.etl.mapper;
+package com.md.GI.etl.mapper;
 
-import com.crest.GI.etl.dto.MergeRequestDto;
-import com.crest.GI.etl.dto.NoteDto;
-import com.crest.GI.etl.dto.ProjectDto;
-import com.crest.GI.etl.dto.UserDto;
-import com.crest.GI.etl.model.MergeRequest;
-import com.crest.GI.etl.model.Note;
-import com.crest.GI.etl.model.Project;
-import com.crest.GI.etl.model.User;
+import com.md.GI.etl.dto.MergeRequestDto;
+import com.md.GI.etl.dto.NoteDto;
+import com.md.GI.etl.dto.ProjectDto;
+import com.md.GI.etl.dto.UserDto;
+import com.md.GI.etl.model.MergeRequest;
+import com.md.GI.etl.model.Note;
+import com.md.GI.etl.model.Project;
+import com.md.GI.etl.model.User;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDateTime;

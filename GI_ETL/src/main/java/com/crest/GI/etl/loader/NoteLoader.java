@@ -1,6 +1,6 @@
-package com.crest.GI.etl.loader;
+package com.md.GI.etl.loader;
 
-import com.crest.GI.etl.model.Note;
+import com.md.GI.etl.model.Note;
 import java.sql.Timestamp;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;

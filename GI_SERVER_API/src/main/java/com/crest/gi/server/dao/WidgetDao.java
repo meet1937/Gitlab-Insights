@@ -1,9 +1,9 @@
-package com.crest.gi.server.dao;
+package com.md.gi.server.dao;
 
-import com.crest.gi.server.dto.Merged;
-import com.crest.gi.server.dto.MrRaisedAndMrMergedByDeveloper;
-import com.crest.gi.server.dto.MrRaisedByDeveloper;
-import com.crest.gi.server.dto.RaisedVsMerged;
+import com.md.gi.server.dto.Merged;
+import com.md.gi.server.dto.MrRaisedAndMrMergedByDeveloper;
+import com.md.gi.server.dto.MrRaisedByDeveloper;
+import com.md.gi.server.dto.RaisedVsMerged;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.RowMapper;

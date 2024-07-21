@@ -1,4 +1,4 @@
-package com.crest.gi.scheduler.exception;
+package com.md.gi.scheduler.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

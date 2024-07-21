@@ -1,7 +1,7 @@
-package com.crest.gi.scheduler.repository;
+package com.md.gi.scheduler.repository;
 
-import com.crest.gi.scheduler.enums.Status;
-import com.crest.gi.scheduler.model.Integration;
+import com.md.gi.scheduler.enums.Status;
+import com.md.gi.scheduler.model.Integration;
 import java.util.List;
 import java.util.UUID;
 import org.springframework.data.jpa.repository.JpaRepository;

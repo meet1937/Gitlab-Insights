@@ -1,4 +1,4 @@
-package com.crest.gi.pull.model;
+package com.md.gi.pull.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

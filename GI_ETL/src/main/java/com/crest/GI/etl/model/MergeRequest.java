@@ -1,4 +1,4 @@
-package com.crest.GI.etl.model;
+package com.md.GI.etl.model;
 
 import java.time.LocalDateTime;
 import lombok.Builder;

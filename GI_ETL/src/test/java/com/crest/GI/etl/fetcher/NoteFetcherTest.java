@@ -1,4 +1,4 @@
-package com.crest.GI.etl.fetcher;
+package com.md.GI.etl.fetcher;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.any;
@@ -6,11 +6,11 @@ import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
-import com.crest.GI.etl.dto.NoteDto;
-import com.crest.GI.etl.loader.NoteLoader;
-import com.crest.GI.etl.mapper.GitlabMapper;
-import com.crest.GI.etl.model.Note;
-import com.crest.gi.utils.dropbox.DropboxService;
+import com.md.GI.etl.dto.NoteDto;
+import com.md.GI.etl.loader.NoteLoader;
+import com.md.GI.etl.mapper.GitlabMapper;
+import com.md.GI.etl.model.Note;
+import com.md.gi.utils.dropbox.DropboxService;
 import com.dropbox.core.DbxException;
 import java.io.IOException;
 import java.time.LocalDateTime;

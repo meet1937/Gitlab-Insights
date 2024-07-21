@@ -1,7 +1,7 @@
-package com.crest.gi.server.service;
+package com.md.gi.server.service;
 
-import com.crest.gi.server.dao.WidgetDao;
-import com.crest.gi.server.dto.*;
+import com.md.gi.server.dao.WidgetDao;
+import com.md.gi.server.dto.*;
 import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.List;

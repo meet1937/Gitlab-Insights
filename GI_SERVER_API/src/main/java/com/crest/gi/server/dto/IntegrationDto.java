@@ -1,4 +1,4 @@
-package com.crest.gi.server.dto;
+package com.md.gi.server.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.validation.constraints.Email;

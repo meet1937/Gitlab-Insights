@@ -1,8 +1,8 @@
-package com.crest.gi.pull.datasource;
+package com.md.gi.pull.datasource;
 
 import static org.mockito.Mockito.*;
 
-import com.crest.gi.pull.model.MergeRequest;
+import com.md.gi.pull.model.MergeRequest;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Map;

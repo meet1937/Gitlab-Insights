@@ -1,6 +1,6 @@
-package com.crest.gi.scheduler.model;
+package com.md.gi.scheduler.model;
 
-import com.crest.gi.scheduler.enums.Status;
+import com.md.gi.scheduler.enums.Status;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;

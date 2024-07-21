@@ -1,6 +1,6 @@
-package com.crest.gi.pull.controller;
+package com.md.gi.pull.controller;
 
-import com.crest.gi.pull.model.Data;
+import com.md.gi.pull.model.Data;
 
 import java.time.LocalDateTime;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.crest.gi.server.dto;
+package com.md.gi.server.dto;
 
 import java.util.List;
 import lombok.Data;

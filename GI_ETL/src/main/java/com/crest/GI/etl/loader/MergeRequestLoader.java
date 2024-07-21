@@ -1,7 +1,7 @@
-package com.crest.GI.etl.loader;
+package com.md.GI.etl.loader;
 
-import com.crest.GI.etl.mapper.GitlabMapper;
-import com.crest.GI.etl.model.MergeRequest;
+import com.md.GI.etl.mapper.GitlabMapper;
+import com.md.GI.etl.model.MergeRequest;
 import java.sql.*;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;

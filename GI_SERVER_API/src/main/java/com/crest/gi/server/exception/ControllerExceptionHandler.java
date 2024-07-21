@@ -1,4 +1,4 @@
-package com.crest.gi.server.exception;
+package com.md.gi.server.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

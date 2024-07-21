@@ -1,11 +1,11 @@
-package com.crest.gi.scheduler.service;
+package com.md.gi.scheduler.service;
 
-import com.crest.gi.pull.model.Data;
-import com.crest.gi.pull.service.PullService;
-import com.crest.gi.scheduler.enums.Status;
-import com.crest.gi.scheduler.model.Integration;
-import com.crest.gi.scheduler.model.SchedulerTask;
-import com.crest.gi.scheduler.repository.LogRepository;
+import com.md.gi.pull.model.Data;
+import com.md.gi.pull.service.PullService;
+import com.md.gi.scheduler.enums.Status;
+import com.md.gi.scheduler.model.Integration;
+import com.md.gi.scheduler.model.SchedulerTask;
+import com.md.gi.scheduler.repository.LogRepository;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import java.util.List;

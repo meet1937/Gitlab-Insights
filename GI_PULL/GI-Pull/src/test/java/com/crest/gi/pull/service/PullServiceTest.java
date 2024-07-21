@@ -1,10 +1,10 @@
-package com.crest.gi.pull.service;
+package com.md.gi.pull.service;
 
 import static junit.framework.Assert.*;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.Mockito.*;
-import com.crest.gi.pull.controller.GitlabController;
-import com.crest.gi.pull.model.Data;
+import com.md.gi.pull.controller.GitlabController;
+import com.md.gi.pull.model.Data;
 import java.time.LocalDateTime;
 import java.util.List;
 import org.junit.jupiter.api.Test;

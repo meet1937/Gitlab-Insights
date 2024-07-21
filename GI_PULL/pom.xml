@@ -6,7 +6,7 @@
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.2.2</version>
   </parent>
-  <groupId>com.crest.gi</groupId>
+  <groupId>com.md.gi</groupId>
   <artifactId>GI-Commons</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>

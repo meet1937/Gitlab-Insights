@@ -1,6 +1,6 @@
-package com.crest.gi.pull.datasource;
+package com.md.gi.pull.datasource;
 
-import com.crest.gi.pull.model.User;
+import com.md.gi.pull.model.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

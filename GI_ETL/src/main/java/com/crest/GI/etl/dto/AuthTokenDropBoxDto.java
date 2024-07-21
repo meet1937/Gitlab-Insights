@@ -1,4 +1,4 @@
-package com.crest.GI.etl.dto;
+package com.md.GI.etl.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

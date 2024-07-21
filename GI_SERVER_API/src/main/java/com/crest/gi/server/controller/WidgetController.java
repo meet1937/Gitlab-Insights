@@ -1,7 +1,7 @@
-package com.crest.gi.server.controller;
+package com.md.gi.server.controller;
 
-import com.crest.gi.server.dto.*;
-import com.crest.gi.server.service.WidgetService;
+import com.md.gi.server.dto.*;
+import com.md.gi.server.service.WidgetService;
 import java.util.List;
 import java.util.Map;
 import java.util.UUID;

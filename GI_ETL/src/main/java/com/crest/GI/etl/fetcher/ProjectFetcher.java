@@ -1,10 +1,10 @@
-package com.crest.GI.etl.fetcher;
+package com.md.GI.etl.fetcher;
 
-import com.crest.GI.etl.dto.ProjectDto;
-import com.crest.GI.etl.loader.ProjectLoader;
-import com.crest.GI.etl.mapper.GitlabMapper;
-import com.crest.GI.etl.model.Project;
-import com.crest.gi.utils.dropbox.DropboxService;
+import com.md.GI.etl.dto.ProjectDto;
+import com.md.GI.etl.loader.ProjectLoader;
+import com.md.GI.etl.mapper.GitlabMapper;
+import com.md.GI.etl.model.Project;
+import com.md.gi.utils.dropbox.DropboxService;
 import com.dropbox.core.DbxException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
